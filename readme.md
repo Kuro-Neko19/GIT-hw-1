@@ -12,9 +12,14 @@ LICENSE: [MIT](./licence.md)
 3. [Команда **git status**](./content/status.md)
 4. [Команда **git dif**](./content/diff.md)
 5. [Команда **git difftool**](./content/difftool.md)
-6. 
-7. 
+6. [Команда **git commit**](./content/commit.md)
+7. [Команда **git reset**](./content/reset.md)
+8. [Команда **git rm**](./content/rm.md)
+9. [Команда **git mv**](./content/mv.md)
+10. [Команда **git clean**](./content/clean.md)
 
 ---
 
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
+---
